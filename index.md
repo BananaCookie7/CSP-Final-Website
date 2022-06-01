@@ -7,7 +7,7 @@ title: "Hi! I'm Katherine Lau. Nice to meet you!"
 Name: Katherine Lau
 
 Social media:
-Discord: RubyRedSoldier#8864
+- Discord: RubyRedSoldier#8864
 
 Achievements:
 - I have performed in Carnegie Hall.
