@@ -1,5 +1,5 @@
 ---
-title: "Hi! I'm Katherine Lau. Nice to meet you!"
+title: "My Website"
 ---
 
 #Picture here
