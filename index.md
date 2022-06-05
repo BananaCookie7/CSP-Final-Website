@@ -2,7 +2,7 @@
 title: "My Website"
 ---
 
-![image](https://user-images.githubusercontent.com/84082331/172074719-ec410d30-ca5f-495a-a3e9-c9d3ec5c68be.jpg)
+![image](https://user-images.githubusercontent.com/84082331/172074767-db29a4f8-2462-422b-8ad5-4ef2120ce6e8.jpg)
 
 Name: Katherine Lau
 
